@@ -80,8 +80,8 @@ const SITES = [
   {
     id: 7,
     name: "Voiranime",
-    url: "https://voiranime.com",
-    shortUrl: "voiranime.com",
+    url: "https://voiranime.tv",
+    shortUrl: "voiranime.tv",
     type: "anime",
     vostfr: true, vf: true, free: true,
     desc: "Portail francophone très fourni. Streaming sans téléchargement, catalogue régulièrement enrichi.",
